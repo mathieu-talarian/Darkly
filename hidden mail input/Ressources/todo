@@ -1,0 +1,10 @@
+go to login then `forgot password`
+
+go to page sourcecode
+find hidden mail input and put any other mail
+
+==========
+
+use firefox
+
+modify request / change mail in request and send request

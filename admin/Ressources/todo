@@ -1,0 +1,22 @@
+`http://robots-txt.com/`
+
+go to => 
+http://192.168.186.128/robots.txt
+
+Can see `Disallow:/whatever`
+
+go to => 
+http://192.168.186.128/whatever/ 
+and open htpasswd
+
+find this => 
+`root:8621ffdbc5698829397d97767ac13db3`
+
+can decrypt it with md5
+
+`root:dragon`
+
+go to => 
+http://192.168.186.128/admin/
+
+and type root: dragon

@@ -1,0 +1,9 @@
+use firefox 
+
+check network 
+find POST /?page=survey
+
+modify and sand request
+on parameters change `valeur` field and put a big value 
+value = 100000
+check response

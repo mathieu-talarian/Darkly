@@ -1,0 +1,7 @@
+copy redirection link to facebook or twitter or insta
+
+http://192.168.186.128/index.php?page=redirect&site=facebook
+
+and replace site by admin
+
+http://192.168.186.128/index.php?page=redirect&site=admin

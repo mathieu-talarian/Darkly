@@ -1,0 +1,11 @@
+cookie is crypted with md5
+
+https://www.md5online.fr/crypter-md5.html
+
+decrypted => false
+
+encrypt true
+
+MD5 hash for true is : b326b5062b2f0e69046810717534cb09
+
+and replace cookie false by true
