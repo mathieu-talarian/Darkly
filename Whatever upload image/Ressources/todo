@@ -1,0 +1,7 @@
+use Firefox to modify request
+
+look for http://192.168.105.128/index.php?page=upload POST request
+
+try to modify and re-send request
+
+change file name and look in response

